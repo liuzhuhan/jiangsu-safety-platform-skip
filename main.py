@@ -18,7 +18,7 @@ os.chdir(script_dir)
 print("切换到工作目录：", os.getcwd())
 # 修一下目录问题
 
-userId = input("请输入userId：")
+userId = input("1954510464079740929：")
 start_time = time.time()
 # 别问为什么是中文 问就是我想不出来什么奇怪的英文变量名了
 题库学习 = {"articleId":"1672768716061863938","title":"题库学习","userId":userId,"ah":"","question":"1677233633049554945-1","quesType":"3"}
